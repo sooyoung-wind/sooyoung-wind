@@ -1,4 +1,4 @@
-<h1 align="center">Ph.D. Soo.Y</h1>
+<h1 align="center">Sooyoung</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooyoung-wind&label=Profile%20views&color=0e75b6&style=flat" alt="sooyoung-wind" /> </p>
 
 <h3 align="left">Connect with me:</h3>
